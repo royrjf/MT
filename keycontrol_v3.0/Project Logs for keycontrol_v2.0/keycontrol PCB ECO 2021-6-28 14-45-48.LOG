@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=CEN1 Pin=U16-29
+Removed Pin From Net: NetName=CEN2 Pin=U16-30
+Removed Pin From Net: NetName=CEN3 Pin=U16-31
+Removed Pin From Net: NetName=CEN4 Pin=U16-32
+Added Pin To Net: NetName=CEN1 Pin=U16-28
+Added Pin To Net: NetName=CEN2 Pin=U16-29
+Added Pin To Net: NetName=CEN3 Pin=U16-30
+Added Pin To Net: NetName=CEN4 Pin=U16-31
+Added Pin To Net: NetName=CEN5 Pin=U16-32

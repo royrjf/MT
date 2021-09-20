@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=USART2_TX Pin=U16-9
+Added Pin To Net: NetName=USART2_RX Pin=U16-10
+Added Pin To Net: NetName=SWDIO Pin=U16-24
+Added Pin To Net: NetName=SWCLK Pin=U16-25

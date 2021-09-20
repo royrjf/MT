@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=485_B Pin=R75-1
+Removed Pin From Net: NetName=485_A Pin=R76-2
+Removed Pin From Net: NetName=485_A Pin=U22-6
+Removed Pin From Net: NetName=485_B Pin=U22-7
+Removed Pin From Net: NetName=485_A Pin=U23-1
+Removed Pin From Net: NetName=485_B Pin=U23-2
+Added Component: Designator=PTC1(PTC)
+Added Component: Designator=PTC2(PTC)
+Added Pin To Net: NetName=485_B Pin=PTC1-2
+Added Pin To Net: NetName=485_A Pin=PTC2-2
+Added Pin To Net: NetName=NetPTC1_1 Pin=PTC1-1
+Added Pin To Net: NetName=NetPTC1_1 Pin=R75-1
+Added Pin To Net: NetName=NetPTC1_1 Pin=U22-7
+Added Pin To Net: NetName=NetPTC1_1 Pin=U23-2
+Added Net: Name=NetPTC1_1
+Added Pin To Net: NetName=NetPTC2_1 Pin=PTC2-1
+Added Pin To Net: NetName=NetPTC2_1 Pin=R76-2
+Added Pin To Net: NetName=NetPTC2_1 Pin=U22-6
+Added Pin To Net: NetName=NetPTC2_1 Pin=U23-1
+Added Net: Name=NetPTC2_1
+Added Member To Class: ClassName=keycontrol_MCU Member=Component PTC1 PTC
+Added Member To Class: ClassName=keycontrol_MCU Member=Component PTC2 PTC

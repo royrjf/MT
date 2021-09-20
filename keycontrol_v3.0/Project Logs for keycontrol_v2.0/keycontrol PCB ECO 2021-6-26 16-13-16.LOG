@@ -1,0 +1,12 @@
+Change Component DesignItemId : Designator=R6 Old DesignItemId=0402 27K次 (2702) 1% New DesignItemId=0603 33次 (33R0) 1%
+Change Component DesignItemId : Designator=R8 Old DesignItemId=0402 27K次 (2702) 1% New DesignItemId=0603 33次 (33R0) 1%
+Change Component DesignItemId : Designator=R5 Old DesignItemId=0402 470次 (4700) 1% New DesignItemId=0603 470次 (4700) 1%
+Change Component DesignItemId : Designator=R7 Old DesignItemId=0402 470次 (4700) 1% New DesignItemId=0603 470次 (4700) 1%
+Change Component Footprint: Designator=R5 Old Footprint=0402_R New Footprint=0603_R
+Change Component Footprint: Designator=R6 Old Footprint=0402_R New Footprint=0603_R
+Change Component Footprint: Designator=R7 Old Footprint=0402_R New Footprint=0603_R
+Change Component Footprint: Designator=R8 Old Footprint=0402_R New Footprint=0603_R
+Change Component Comment : Designator=R6 Old Comment=27次 New Comment=33次 (33R0) ㊣1%
+Change Component Comment : Designator=R8 Old Comment=27次 New Comment=33次 (33R0) ㊣1%
+Change Component Comment : Designator=R5 Old Comment=470次 New Comment=470次 (4700) ㊣1%
+Change Component Comment : Designator=R7 Old Comment=470次 New Comment=470次 (4700) ㊣1%

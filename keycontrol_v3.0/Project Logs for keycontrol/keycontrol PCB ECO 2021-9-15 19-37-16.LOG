@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=485_DIR Pin=U16-11
+Removed Member From Class: ClassName=keycontrol_MCU Member=C1
+Removed Member From Class: ClassName=keycontrol_MCU Member=C3
+Removed Member From Class: ClassName=keycontrol_MCU Member=C7
+Added Pin To Net: NetName=EN1 Pin=U16-7
+Added Pin To Net: NetName=EN2 Pin=U16-8
+Added Pin To Net: NetName=PWM1 Pin=U16-11
+Added Pin To Net: NetName=485_DIR Pin=U16-12
+Added Pin To Net: NetName=PWM2 Pin=U16-13
+Added Member To Class: ClassName=keycontrol_MCU Member=Component C19 10uF
+Added Member To Class: ClassName=keycontrol_MCU Member=Component C25 1uF  50V
+Added Member To Class: ClassName=keycontrol_MCU Member=Component C27 220pF
+Added Member To Class: ClassName=keycontrol2 Member=Component C32 100nF (104) 10% 50V

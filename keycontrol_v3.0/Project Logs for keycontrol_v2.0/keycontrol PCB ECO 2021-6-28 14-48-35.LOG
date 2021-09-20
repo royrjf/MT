@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=SEAL Pin=U16-26
+Removed Pin From Net: NetName=NEEDLE Pin=U16-27
+Added Pin To Net: NetName=SEAL Pin=U16-22
+Added Pin To Net: NetName=NEEDLE Pin=U16-23
+Added Pin To Net: NetName=WS2813_CTRL1 Pin=U16-26
+Added Pin To Net: NetName=WS2813_CTRL2 Pin=U16-27

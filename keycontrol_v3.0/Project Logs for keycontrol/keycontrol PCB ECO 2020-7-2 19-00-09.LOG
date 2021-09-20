@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Net Name : Old Net Name=NetD?_A New Net Name=NetD3_A
+Added Room: Name=keycontrol1

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=ZK3 Pin=Q13-3
+Removed Pin From Net: NetName=ZK2 Pin=Q15-3
+Added Pin To Net: NetName=ZK2 Pin=Q13-3
+Added Pin To Net: NetName=ZK3 Pin=Q15-3
+Change Net Name : Old Net Name=ZKEN2 New Net Name=ZKEN3
+Change Net Name : Old Net Name=ZKEN3 New Net Name=ZKEN2

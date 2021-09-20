@@ -1,0 +1,10 @@
+Added Component: Designator=P1(XH-5P)
+Added Pin To Net: NetName=CAP1 Pin=U21-4
+Added Net: Name=CAP1
+Added Pin To Net: NetName=CAP2 Pin=U20-4
+Added Net: Name=CAP2
+Added Pin To Net: NetName=CAP3 Pin=U18-4
+Added Net: Name=CAP3
+Added Pin To Net: NetName=CAP4 Pin=U19-4
+Added Net: Name=CAP4
+Added Member To Class: ClassName=keycontrol Member=Component P1 HEADER_5P

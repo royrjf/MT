@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=J1 Old Footprint=MX_3.0_2X1P New Footprint=PH2-2.0
+Change Component Footprint: Designator=J7 Old Footprint=MX_3.0_2X1P New Footprint=PH2-2.0
+Added Component: Designator=J8(ph3-2.0)
+Added Pin To Net: NetName=SILK_24V_SWITCH_2 Pin=J8-1
+Added Pin To Net: NetName=SILK_24V_SWITCH_1 Pin=J8-3
+Added Member To Class: ClassName=keycontrol1 Member=Component J8 PH-3

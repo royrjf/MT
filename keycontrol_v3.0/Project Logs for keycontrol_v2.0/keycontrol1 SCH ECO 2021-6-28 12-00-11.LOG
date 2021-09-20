@@ -1,0 +1,5 @@
+Remove Pin=U16-11 From Net=485_DIR
+Change Pin Designator/Name:  Old Designator=J23-1 Old Name=1 New Designator =3 New Name=3
+Change Pin Designator/Name:  Old Designator=J23-3 Old Name=3 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=J24-1 Old Name=1 New Designator =3 New Name=3
+Change Pin Designator/Name:  Old Designator=J24-3 Old Name=3 New Designator =1 New Name=1

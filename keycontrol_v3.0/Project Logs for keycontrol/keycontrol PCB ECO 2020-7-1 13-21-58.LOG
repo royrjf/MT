@@ -1,0 +1,6 @@
+Added Component: Designator=J6(PH2-2.0)
+Added Component: Designator=J7(PH2-2.0)
+Added Component: Designator=J8(PH2-2.0)
+Added Member To Class: ClassName=keycontrol Member=Component J6 MOTOR
+Added Member To Class: ClassName=keycontrol Member=Component J7 MOTOR
+Added Member To Class: ClassName=keycontrol Member=Component J8 MOTOR

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND_S Pin=J8-1
+Removed Pin From Net: NetName=SILK_24V_SWITCH_1 Pin=J8-3
+Added Pin To Net: NetName=SILK_24V_SWITCH_1 Pin=J8-1
+Added Pin To Net: NetName=GND_S Pin=J8-3

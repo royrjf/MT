@@ -1,0 +1,214 @@
+Removed Pin From Net: NetName=VCC5V Pin=D13-2
+Removed Pin From Net: NetName=VCC5V Pin=D14-2
+Removed Pin From Net: NetName=VCC5V Pin=D16-2
+Removed Pin From Net: NetName=VCC5V Pin=D19-2
+Removed Pin From Net: NetName=VCC5V Pin=D21-2
+Removed Pin From Net: NetName=GND Pin=Q14-2
+Removed Pin From Net: NetName=GND Pin=Q15-2
+Removed Pin From Net: NetName=GND Pin=Q16-2
+Removed Pin From Net: NetName=GND Pin=Q17-2
+Removed Pin From Net: NetName=GND Pin=Q18-2
+Removed Pin From Net: NetName=NetQ14_1 Pin=R34-2
+Removed Pin From Net: NetName=NetQ14_1 Pin=R35-2
+Removed Pin From Net: NetName=NetJ1_2 Pin=U1-3
+Removed Pin From Net: NetName=NetJ1_1 Pin=U1-4
+Removed Pin From Net: NetName=VCC5V Pin=U9-1
+Removed Pin From Net: NetName=GND Pin=U9-3
+Removed Pin From Net: NetName=NetJ17_1 Pin=U9-4
+Removed Pin From Net: NetName=VCC5V Pin=U10-1
+Removed Pin From Net: NetName=GND Pin=U10-3
+Removed Pin From Net: NetName=NetJ15_1 Pin=U10-4
+Removed Pin From Net: NetName=VCC5V Pin=U11-1
+Removed Pin From Net: NetName=GND Pin=U11-3
+Removed Pin From Net: NetName=NetJ16_1 Pin=U11-4
+Removed Pin From Net: NetName=VCC5V Pin=U12-1
+Removed Pin From Net: NetName=GND Pin=U12-3
+Removed Pin From Net: NetName=NetJ18_1 Pin=U12-4
+Removed Pin From Net: NetName=VCC5V Pin=U13-1
+Removed Pin From Net: NetName=GND Pin=U13-3
+Removed Pin From Net: NetName=NetJ19_1 Pin=U13-4
+Removed Member From Class: ClassName=keycontrol Member=D13
+Removed Member From Class: ClassName=keycontrol Member=D14
+Removed Member From Class: ClassName=keycontrol Member=D16
+Removed Member From Class: ClassName=keycontrol Member=D19
+Removed Member From Class: ClassName=keycontrol Member=D21
+Removed Member From Class: ClassName=keycontrol Member=Q15
+Removed Member From Class: ClassName=keycontrol Member=Q16
+Removed Member From Class: ClassName=keycontrol Member=Q17
+Removed Member From Class: ClassName=keycontrol Member=Q18
+Removed Member From Class: ClassName=keycontrol Member=U9
+Removed Member From Class: ClassName=keycontrol Member=U10
+Removed Member From Class: ClassName=keycontrol Member=U11
+Removed Member From Class: ClassName=keycontrol Member=U12
+Removed Member From Class: ClassName=keycontrol Member=U13
+Change Component DesignItemId : Designator=C14 Old DesignItemId= New DesignItemId=C
+Change Component DesignItemId : Designator=J1 Old DesignItemId= New DesignItemId=header2
+Change Component DesignItemId : Designator=J2 Old DesignItemId= New DesignItemId=header2
+Change Component DesignItemId : Designator=J9 Old DesignItemId= New DesignItemId=header2
+Change Component DesignItemId : Designator=J10 Old DesignItemId= New DesignItemId=header2
+Change Component DesignItemId : Designator=J11 Old DesignItemId= New DesignItemId=header2
+Change Component DesignItemId : Designator=J12 Old DesignItemId= New DesignItemId=header2
+Change Component DesignItemId : Designator=J13 Old DesignItemId= New DesignItemId=header2
+Change Component DesignItemId : Designator=J14 Old DesignItemId= New DesignItemId=header2
+Change Component DesignItemId : Designator=J20 Old DesignItemId= New DesignItemId=header2
+Change Component DesignItemId : Designator=J21 Old DesignItemId= New DesignItemId=header2
+Change Component DesignItemId : Designator=J15 Old DesignItemId= New DesignItemId=header3p
+Change Component DesignItemId : Designator=J16 Old DesignItemId= New DesignItemId=header3p
+Change Component DesignItemId : Designator=J17 Old DesignItemId= New DesignItemId=header3p
+Change Component DesignItemId : Designator=J18 Old DesignItemId= New DesignItemId=header3p
+Change Component DesignItemId : Designator=J19 Old DesignItemId= New DesignItemId=header3p
+Change Component DesignItemId : Designator=J3 Old DesignItemId= New DesignItemId=header4
+Change Component DesignItemId : Designator=J4 Old DesignItemId= New DesignItemId=header4
+Change Component DesignItemId : Designator=J22 Old DesignItemId= New DesignItemId=header4
+Change Component DesignItemId : Designator=L2 Old DesignItemId= New DesignItemId=induct
+Change Component DesignItemId : Designator=PTC1 Old DesignItemId= New DesignItemId=PTC
+Change Component DesignItemId : Designator=PTC2 Old DesignItemId= New DesignItemId=PTC
+Change Component DesignItemId : Designator=J23 Old DesignItemId= New DesignItemId=XH-3
+Change Component DesignItemId : Designator=J24 Old DesignItemId= New DesignItemId=XH-3
+Change Component DesignItemId : Designator=Q14 Old DesignItemId=AO3400A N道沟 X0YV1T SOT-23 New DesignItemId=MOSFET_N
+Change Component Footprint: Designator=Q14 Old Footprint=SOT-23-3L New Footprint=TO-252-2
+Change Component Comment : Designator=Q14 Old Comment=AO3400A N New Comment=MOSFET_N
+Change Component Description : Designator=U16 Old Description= New Description=MCU
+Change Component Description : Designator=U15 Old Description= New Description=TVS
+Change Component Description : Designator=D1 Old Description= New Description=二极管
+Change Component Description : Designator=D2 Old Description= New Description=二极管
+Change Component Description : Designator=D3 Old Description= New Description=二极管
+Change Component Description : Designator=D24 Old Description= New Description=发光二极管
+Change Component Description : Designator=D25 Old Description= New Description=发光二极管
+Change Component Description : Designator=U1 Old Description= New Description=继电器
+Change Component Description : Designator=R1 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R2 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R3 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R4 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R5 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R6 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R7 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R8 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R23 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R24 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R25 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R26 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R27 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R28 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R29 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R30 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R31 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R32 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R33 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R34 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R35 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R36 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R37 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R38 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R39 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R40 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R41 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R42 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R43 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R44 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R45 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R46 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R47 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R48 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R49 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R50 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R51 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R52 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R53 Old Description= New Description=贴片电阻
+Change Component Description : Designator=R54 Old Description= New Description=贴片电阻
+Change Component Description : Designator=C1 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C2 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C3 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C4 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C5 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C6 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C7 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C8 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C9 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C10 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C11 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C12 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C13 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C15 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C17 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C19 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C20 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C21 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C22 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C23 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C24 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C25 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C26 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C27 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C28 Old Description=? New Description=贴片电容
+Change Component Description : Designator=C29 Old Description=? New Description=贴片电容
+Change Component Description : Designator=L1 Old Description=? New Description=贴片电感
+Change Component Description : Designator=U8 Old Description=brush mo New Description=brush motor drive
+Change Component Description : Designator=U18 Old Description=https://item.szlcsc.com/40034.html New Description=https://item.szlcsc.com/40034.html LDO 3.3V
+Change Component Description : Designator=Q9 Old Description=MOS( New Description=MOS(场效应管)
+Change Component Description : Designator=Q10 Old Description=MOS( New Description=MOS(场效应管)
+Change Component Description : Designator=Q11 Old Description=MOS( New Description=MOS(场效应管)
+Change Component Description : Designator=Q12 Old Description=MOS( New Description=MOS(场效应管)
+Change Component Description : Designator=Q13 Old Description=MOS( New Description=MOS(场效应管)
+Change Component Description : Designator=U17 Old Description=MP2560D_SOIC-8_ New Description=MP2560D_SOIC-8_EP_150mil
+Change Component Description : Designator=U14 Old Description=RS-485/RS-42 New Description=RS-485/RS-422
+Change Component Description : Designator=D8 Old Description=二 New Description=二极管
+Change Component Description : Designator=D9 Old Description=二 New Description=二极管
+Change Component Description : Designator=D10 Old Description=二 New Description=二极管
+Change Component Description : Designator=D11 Old Description=二 New Description=二极管
+Change Component Description : Designator=D12 Old Description=二 New Description=二极管
+Change Component Description : Designator=D15 Old Description=二 New Description=二极管
+Change Component Description : Designator=D17 Old Description=二 New Description=二极管
+Change Component Description : Designator=D18 Old Description=二 New Description=二极管
+Change Component Description : Designator=D20 Old Description=二 New Description=二极管
+Change Component Description : Designator=D22 Old Description=二 New Description=二极管
+Change Component Description : Designator=Y1 Old Description=贴? New Description=贴片晶振
+Change Component Description : Designator=C16 Old Description=贴? New Description=贴片电容
+Change Component Description : Designator=C18 Old Description=贴? New Description=贴片电容
+Added Component: Designator=Q5(TO-252-2)
+Added Component: Designator=Q6(TO-252-2)
+Added Component: Designator=Q7(TO-252-2)
+Added Component: Designator=Q8(TO-252-2)
+Added Pin To Net: NetName=NetJ17_1 Pin=Q5-2
+Added Pin To Net: NetName=GND Pin=Q5-3
+Added Pin To Net: NetName=NetJ15_1 Pin=Q6-2
+Added Pin To Net: NetName=GND Pin=Q6-3
+Added Pin To Net: NetName=NetJ16_1 Pin=Q7-2
+Added Pin To Net: NetName=GND Pin=Q7-3
+Added Pin To Net: NetName=NetJ18_1 Pin=Q8-2
+Added Pin To Net: NetName=GND Pin=Q8-3
+Added Pin To Net: NetName=NetJ19_1 Pin=Q14-2
+Added Pin To Net: NetName=GND Pin=Q14-3
+Added Pin To Net: NetName=NetQ14_1 Pin=R41-2
+Added Pin To Net: NetName=NetQ14_1 Pin=R43-2
+Added Pin To Net: NetName=NetJ1_1 Pin=U1-3
+Added Pin To Net: NetName=NetJ1_2 Pin=U1-4
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-1
+Added Pin To Net: NetName=NetQ5_1 Pin=R34-2
+Added Pin To Net: NetName=NetQ5_1 Pin=R35-2
+Added Net: Name=NetQ5_1
+Added Pin To Net: NetName=NetQ6_1 Pin=Q6-1
+Added Pin To Net: NetName=NetQ6_1 Pin=R36-2
+Added Pin To Net: NetName=NetQ6_1 Pin=R38-2
+Added Net: Name=NetQ6_1
+Added Pin To Net: NetName=NetQ7_1 Pin=Q7-1
+Added Pin To Net: NetName=NetQ7_1 Pin=R37-2
+Added Pin To Net: NetName=NetQ7_1 Pin=R39-2
+Added Net: Name=NetQ7_1
+Added Pin To Net: NetName=NetQ8_1 Pin=Q8-1
+Added Pin To Net: NetName=NetQ8_1 Pin=R40-2
+Added Pin To Net: NetName=NetQ8_1 Pin=R42-2
+Added Net: Name=NetQ8_1
+Added Member To Class: ClassName=keycontrol_MCU Member=Component C14 100uf
+Added Member To Class: ClassName=keycontrol_MCU Member=Component C15 100nF
+Added Member To Class: ClassName=keycontrol_MCU Member=Component C16 22pF
+Added Member To Class: ClassName=keycontrol_MCU Member=Component C17 100nF (104) 10% 50V
+Added Member To Class: ClassName=keycontrol_MCU Member=Component C18 22pF
+Added Member To Class: ClassName=keycontrol_MCU Member=Component C19 10uF
+Added Member To Class: ClassName=keycontrol_MCU Member=Component C20 100nF
+Added Member To Class: ClassName=keycontrol_MCU Member=Component C21 10nF
+Added Member To Class: ClassName=keycontrol_MCU Member=Component C27 220pF
+Added Member To Class: ClassName=keycontrol Member=Component Q5 MOSFET_N
+Added Member To Class: ClassName=keycontrol Member=Component Q6 MOSFET_N
+Added Member To Class: ClassName=keycontrol Member=Component Q7 MOSFET_N
+Added Member To Class: ClassName=keycontrol Member=Component Q8 MOSFET_N

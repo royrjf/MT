@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=NEEDLE Pin=R1-1
+Added Pin To Net: NetName=NEEDLE Pin=U16-27
+Added Net: Name=NEEDLE
+Added Pin To Net: NetName=SEAL Pin=R3-1
+Added Pin To Net: NetName=SEAL Pin=U16-26
+Added Net: Name=SEAL

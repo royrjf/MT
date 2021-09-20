@@ -1,0 +1,9 @@
+Added Component: Designator=D?(0603_LED_S1)
+Added Component: Designator=R?(0603_R)
+Added Pin To Net: NetName=LED1 Pin=D?-K
+Added Pin To Net: NetName=VCC3V3 Pin=R?-2
+Added Pin To Net: NetName=NetD?_A Pin=D?-A
+Added Pin To Net: NetName=NetD?_A Pin=R?-1
+Added Net: Name=NetD?_A
+Added Member To Class: ClassName=keycontrol_MCU Member=Component D? ÂÌµÆ 0603
+Added Member To Class: ClassName=keycontrol_MCU Member=Component R? 1K¦¸

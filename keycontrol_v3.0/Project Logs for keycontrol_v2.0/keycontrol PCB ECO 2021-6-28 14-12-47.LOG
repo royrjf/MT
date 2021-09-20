@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=CEN2 Pin=R40-1
+Added Net: Name=CEN2
+Added Pin To Net: NetName=CEN3 Pin=R37-1
+Added Net: Name=CEN3
+Added Pin To Net: NetName=CEN4 Pin=R41-1
+Added Net: Name=CEN4
+Added Pin To Net: NetName=CEN5 Pin=R34-1
+Added Net: Name=CEN5
+Added Pin To Net: NetName=LOCK Pin=R9-1
+Added Pin To Net: NetName=LOCK Pin=U16-28
+Added Net: Name=LOCK

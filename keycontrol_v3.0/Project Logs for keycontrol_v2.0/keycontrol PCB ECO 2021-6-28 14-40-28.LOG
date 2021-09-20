@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=CEN5 Pin=U16-1
+Removed Pin From Net: NetName=LOCK Pin=U16-28
+Added Pin To Net: NetName=LOCK Pin=U16-1

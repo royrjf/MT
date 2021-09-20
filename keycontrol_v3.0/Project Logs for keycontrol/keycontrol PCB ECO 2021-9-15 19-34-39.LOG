@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=NetC32_2 Pin=C32-2
+Removed Pin From Net: NetName=M_OUT1 Pin=J7-1
+Removed Pin From Net: NetName=M_OUT2 Pin=J7-2
+Removed Pin From Net: NetName=PWM1 Pin=U8-1
+Removed Pin From Net: NetName=VCC24V Pin=U8-2
+Removed Pin From Net: NetName=M_OUT1 Pin=U8-3
+Removed Pin From Net: NetName=GND Pin=U8-4
+Removed Pin From Net: NetName=NetC32_2 Pin=U8-5
+Removed Pin From Net: NetName=EN1 Pin=U8-6
+Removed Pin From Net: NetName=F\A\U\L\T\ Pin=U8-8
+Change Component Designator: OldDesignator=C19 NewDesignator=C1
+Change Component Designator: OldDesignator=C25 NewDesignator=C3
+Change Component Designator: OldDesignator=C27 NewDesignator=C7
+Change Component Designator: OldDesignator=C32 NewDesignator=C31
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C30
+Change Component Designator: OldDesignator=C? NewDesignator=C32
+Change Component Designator: OldDesignator=R2? NewDesignator=R14
+Change Component Designator: OldDesignator=R16 NewDesignator=R9
+Change Component Designator: OldDesignator=R20 NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=U? NewDesignator=U4
+Added Component: Designator=J5(XH-2P)
+Added Component: Designator=U3(SOIC-8_150mil)
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=VCC24V Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=VCC24V Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C30-2
+Added Pin To Net: NetName=NetC32_2 Pin=C32-2
+Added Pin To Net: NetName=M_OUT1 Pin=J5-1
+Added Pin To Net: NetName=M_OUT2 Pin=J5-2
+Added Pin To Net: NetName=PWM1 Pin=U3-1
+Added Pin To Net: NetName=VCC24V Pin=U3-2
+Added Pin To Net: NetName=M_OUT1 Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=EN1 Pin=U3-6
+Added Pin To Net: NetName=F\A\U\L\T\ Pin=U3-8
+Added Pin To Net: NetName=NetC32_2 Pin=U4-5
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=R9-2
+Added Pin To Net: NetName=NetC3_2 Pin=U3-7
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=R10-2
+Added Pin To Net: NetName=NetC8_2 Pin=U4-7
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC31_2 Pin=C31-2
+Added Pin To Net: NetName=NetC31_2 Pin=U3-5
+Added Net: Name=NetC31_2
+Added Class: Name=keycontrol2

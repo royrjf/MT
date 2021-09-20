@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=VCC24V Pin=C14-1
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Pin From Net: NetName=GND Pin=C15-1
+Removed Pin From Net: NetName=PAD1 Pin=C15-2
+Removed Pin From Net: NetName=GND Pin=C16-1
+Removed Pin From Net: NetName=OSC_OUT Pin=C16-2
+Removed Pin From Net: NetName=GND Pin=C17-1
+Removed Pin From Net: NetName=VCC3V3 Pin=C17-2
+Removed Pin From Net: NetName=GND Pin=C18-1
+Removed Pin From Net: NetName=OSC_IN Pin=C18-2
+Removed Pin From Net: NetName=GND Pin=C19-1
+Removed Pin From Net: NetName=VDDA Pin=C19-2
+Removed Pin From Net: NetName=GND Pin=C20-1
+Removed Pin From Net: NetName=VDDA Pin=C20-2
+Removed Pin From Net: NetName=GND Pin=C21-1
+Removed Pin From Net: NetName=NRST Pin=C21-2
+Removed Pin From Net: NetName=NetC27_1 Pin=C27-1
+Removed Pin From Net: NetName=NetC27_2 Pin=C27-2
+Removed Pin From Net: NetName=GND Pin=D23-1
+Removed Pin From Net: NetName=NetC23_2 Pin=D23-2
+Removed Pin From Net: NetName=ZKEN1 Pin=R1-1
+Added Component: Designator=C14(E_6.3*5.4)
+Added Component: Designator=C15(0603_C)
+Added Component: Designator=C16(0603_C)
+Added Component: Designator=C17(0603_C)
+Added Component: Designator=C18(0603_C)
+Added Component: Designator=C19(0603_C)
+Added Component: Designator=C20(0603_C)
+Added Component: Designator=C21(0603_C)
+Added Component: Designator=C27(0603_C)
+Added Component: Designator=D23(SOD-123)
+Added Pin To Net: NetName=VCC24V Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C14-2
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=PAD1 Pin=C15-2
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=OSC_OUT Pin=C16-2
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=VCC3V3 Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=OSC_IN Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=VDDA Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=VDDA Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=NRST Pin=C21-2
+Added Pin To Net: NetName=NetC27_1 Pin=C27-1
+Added Pin To Net: NetName=NetC27_2 Pin=C27-2
+Added Pin To Net: NetName=GND Pin=D23-1
+Added Pin To Net: NetName=NetC23_2 Pin=D23-2
+Added Member To Class: ClassName=keycontrol_MCU Member=Component C14 100uf
+Added Member To Class: ClassName=keycontrol_MCU Member=Component C15 100nF
+Added Member To Class: ClassName=keycontrol_MCU Member=Component C16 22pF
+Added Member To Class: ClassName=keycontrol_MCU Member=Component C17 100nF (104) 10% 50V
+Added Member To Class: ClassName=keycontrol_MCU Member=Component C18 22pF
+Added Member To Class: ClassName=keycontrol_MCU Member=Component C19 10uF
+Added Member To Class: ClassName=keycontrol_MCU Member=Component C20 100nF
+Added Member To Class: ClassName=keycontrol_MCU Member=Component C21 10nF
+Added Member To Class: ClassName=keycontrol_MCU Member=Component C27 220pF
+Added Member To Class: ClassName=keycontrol_MCU Member=Component D23 B5819W  SL

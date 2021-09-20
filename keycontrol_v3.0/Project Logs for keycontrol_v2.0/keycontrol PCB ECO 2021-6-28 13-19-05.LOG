@@ -1,0 +1,10 @@
+Added Component: Designator=J6(xh-4)
+Added Pin To Net: NetName=VCC3V3 Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J6-4
+Added Pin To Net: NetName=I2C1_SCL Pin=J6-3
+Added Pin To Net: NetName=I2C1_SCL Pin=U16-19
+Added Net: Name=I2C1_SCL
+Added Pin To Net: NetName=I2C1_SDA Pin=J6-2
+Added Pin To Net: NetName=I2C1_SDA Pin=U16-21
+Added Net: Name=I2C1_SDA
+Added Member To Class: ClassName=keycontrol_MCU Member=Component J6 header4

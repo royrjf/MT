@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=L2 Old Footprint=L-SMD-7.8*7*5 New Footprint=LSMD,3.3*6.6*3mm
+Change Component Comment : Designator=L2 Old Comment=induct New Comment=15uH

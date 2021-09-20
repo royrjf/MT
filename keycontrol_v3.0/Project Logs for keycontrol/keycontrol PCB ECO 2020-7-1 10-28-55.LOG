@@ -1,0 +1,9 @@
+Change Component DesignItemId : Designator=R75 Old DesignItemId=0402 4.7K次 (4701) 1% New DesignItemId=0603 4.7K次 (4701) 1%
+Change Component DesignItemId : Designator=R76 Old DesignItemId=0402 4.7K次 (4701) 1% New DesignItemId=0603 4.7K次 (4701) 1%
+Change Component DesignItemId : Designator=C8 Old DesignItemId=0402 100nF (104) 10% 16V New DesignItemId=0603 100nF (104) 10% 50V
+Change Component Footprint: Designator=C8 Old Footprint=0402_C New Footprint=0603_C
+Change Component Footprint: Designator=R75 Old Footprint=0402_R New Footprint=0603_R
+Change Component Footprint: Designator=R76 Old Footprint=0402_R New Footprint=0603_R
+Change Component Comment : Designator=R75 Old Comment=4.7K次 New Comment=4.7K次 (4701) ㊣1%
+Change Component Comment : Designator=R76 Old Comment=4.7K次 New Comment=4.7K次 (4701) ㊣1%
+Change Component Comment : Designator=C8 Old Comment=100nF 16V New Comment=100nF (104) 10% 50V

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=C22-1
+Removed Pin From Net: NetName=VCC3V3 Pin=C22-2
+Removed Pin From Net: NetName=VCC3V3 Pin=U16-4
+Removed Member From Class: ClassName=keycontrol_MCU Member=C22
+Added Pin To Net: NetName=VDDA Pin=U16-4

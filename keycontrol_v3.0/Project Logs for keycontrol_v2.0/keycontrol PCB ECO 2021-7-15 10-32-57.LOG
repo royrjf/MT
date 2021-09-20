@@ -1,0 +1,3 @@
+Change Net Name : Old Net Name=BAT_CURR New Net Name=CURR
+Added Pin To Net: NetName=BAT_CURR Pin=U16-17
+Added Net: Name=BAT_CURR

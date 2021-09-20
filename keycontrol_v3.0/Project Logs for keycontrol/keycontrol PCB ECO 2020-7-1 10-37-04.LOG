@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=VCC3V3_2 Pin=C13-2
+Removed Pin From Net: NetName=VCC3V3_2 Pin=C14-2
+Removed Pin From Net: NetName=VCC3V3_2 Pin=C17-2
+Removed Pin From Net: NetName=VCC3V3_2 Pin=L1-1
+Removed Pin From Net: NetName=VCC3V3_2 Pin=R77-2
+Removed Pin From Net: NetName=VCC3V3_2 Pin=U24-1
+Removed Pin From Net: NetName=VCC3V3_2 Pin=U24-19
+Removed Pin From Net: NetName=VCC3V3_2 Pin=U24-32
+Added Pin To Net: NetName=VCC3V3 Pin=C13-2
+Added Pin To Net: NetName=VCC3V3 Pin=C14-2
+Added Pin To Net: NetName=VCC3V3 Pin=C17-2
+Added Pin To Net: NetName=VCC3V3 Pin=L1-1
+Added Pin To Net: NetName=VCC3V3 Pin=R77-2
+Added Pin To Net: NetName=VCC3V3 Pin=U24-1
+Added Pin To Net: NetName=VCC3V3 Pin=U24-19
+Added Pin To Net: NetName=VCC3V3 Pin=U24-32

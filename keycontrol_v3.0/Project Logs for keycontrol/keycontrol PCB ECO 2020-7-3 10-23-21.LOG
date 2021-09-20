@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetPTC2_1 Pin=U23-1
+Removed Pin From Net: NetName=NetPTC1_1 Pin=U23-2
+Added Pin To Net: NetName=485_A Pin=U23-1
+Added Pin To Net: NetName=485_B Pin=U23-2

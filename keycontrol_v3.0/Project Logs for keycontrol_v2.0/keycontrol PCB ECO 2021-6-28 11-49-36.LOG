@@ -1,0 +1,26 @@
+Added Component: Designator=C30(0603_C)
+Added Component: Designator=D4(SMA(DO-214AC)_S1)
+Added Component: Designator=J5(XH-2P)
+Added Component: Designator=Q15(TO-252-2)
+Added Component: Designator=R9(0603_R)
+Added Component: Designator=R10(0603_R)
+Added Pin To Net: NetName=VCC24V Pin=C30-2
+Added Pin To Net: NetName=VCC24V Pin=D4-2
+Added Pin To Net: NetName=VCC24V Pin=J5-1
+Added Pin To Net: NetName=GND Pin=Q15-3
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=NetC30_1 Pin=C30-1
+Added Pin To Net: NetName=NetC30_1 Pin=D4-1
+Added Pin To Net: NetName=NetC30_1 Pin=J5-2
+Added Pin To Net: NetName=NetC30_1 Pin=Q15-2
+Added Net: Name=NetC30_1
+Added Pin To Net: NetName=NetQ15_1 Pin=Q15-1
+Added Pin To Net: NetName=NetQ15_1 Pin=R9-2
+Added Pin To Net: NetName=NetQ15_1 Pin=R10-2
+Added Net: Name=NetQ15_1
+Added Member To Class: ClassName=keycontrol1 Member=Component C30 100nF (104) 10% 50V
+Added Member To Class: ClassName=keycontrol1 Member=Component D4 SS54
+Added Member To Class: ClassName=keycontrol1 Member=Component J5 MOTOR
+Added Member To Class: ClassName=keycontrol1 Member=Component Q15 MOSFET_N
+Added Member To Class: ClassName=keycontrol1 Member=Component R9 33¦¸ (33R0) ¡À1%
+Added Member To Class: ClassName=keycontrol1 Member=Component R10 10K¦¸ (1002) ¡À1%

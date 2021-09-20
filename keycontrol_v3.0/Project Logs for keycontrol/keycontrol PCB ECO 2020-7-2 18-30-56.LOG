@@ -1,0 +1,42 @@
+Change Net Name : Old Net Name=NetR24_1 New Net Name=JEN5
+Change Net Name : Old Net Name=NetR25_1 New Net Name=JEN6
+Change Net Name : Old Net Name=NetR26_1 New Net Name=JEN2
+Change Net Name : Old Net Name=NetR27_1 New Net Name=JEN3
+Change Net Name : Old Net Name=NetR28_1 New Net Name=JEN4
+Change Net Name : Old Net Name=NetR29_1 New Net Name=JEN1
+Added Pin To Net: NetName=JKH1 Pin=J15-1
+Added Pin To Net: NetName=JKH1 Pin=U17-4
+Added Net: Name=JKH1
+Added Pin To Net: NetName=JKH2 Pin=J16-1
+Added Pin To Net: NetName=JKH2 Pin=U14-4
+Added Net: Name=JKH2
+Added Pin To Net: NetName=JKH3 Pin=J19-1
+Added Pin To Net: NetName=JKH3 Pin=U15-4
+Added Net: Name=JKH3
+Added Pin To Net: NetName=JKH4 Pin=J20-1
+Added Pin To Net: NetName=JKH4 Pin=U16-4
+Added Net: Name=JKH4
+Added Pin To Net: NetName=JKH5 Pin=J17-1
+Added Pin To Net: NetName=JKH5 Pin=U12-4
+Added Net: Name=JKH5
+Added Pin To Net: NetName=JKH6 Pin=J18-1
+Added Pin To Net: NetName=JKH6 Pin=U13-4
+Added Net: Name=JKH6
+Added Pin To Net: NetName=JKL1 Pin=J15-2
+Added Pin To Net: NetName=JKL1 Pin=U17-3
+Added Net: Name=JKL1
+Added Pin To Net: NetName=JKL2 Pin=J16-2
+Added Pin To Net: NetName=JKL2 Pin=U14-3
+Added Net: Name=JKL2
+Added Pin To Net: NetName=JKL3 Pin=J19-2
+Added Pin To Net: NetName=JKL3 Pin=U15-3
+Added Net: Name=JKL3
+Added Pin To Net: NetName=JKL4 Pin=J20-2
+Added Pin To Net: NetName=JKL4 Pin=U16-3
+Added Net: Name=JKL4
+Added Pin To Net: NetName=JKL5 Pin=J17-2
+Added Pin To Net: NetName=JKL5 Pin=U12-3
+Added Net: Name=JKL5
+Added Pin To Net: NetName=JKL6 Pin=J18-2
+Added Pin To Net: NetName=JKL6 Pin=U13-3
+Added Net: Name=JKL6

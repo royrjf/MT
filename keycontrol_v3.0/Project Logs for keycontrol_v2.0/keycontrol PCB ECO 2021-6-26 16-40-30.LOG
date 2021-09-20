@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=NRST Pin=U16-6
+Added Member To Class: ClassName=keycontrol_MCU Member=Component C16 22pF

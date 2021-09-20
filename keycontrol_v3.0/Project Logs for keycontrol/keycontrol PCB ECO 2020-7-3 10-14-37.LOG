@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=LKEN2 Pin=U24-33
+Removed Pin From Net: NetName=LKEN3 Pin=U24-34
+Added Pin To Net: NetName=LKEN3 Pin=U24-28
+Added Pin To Net: NetName=LKEN2 Pin=U24-29

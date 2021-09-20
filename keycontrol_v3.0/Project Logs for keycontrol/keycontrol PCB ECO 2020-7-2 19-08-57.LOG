@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=ZK2 Pin=Q13-3
+Removed Pin From Net: NetName=ZK3 Pin=Q15-3
+Removed Pin From Net: NetName=TKEN2 Pin=R1-1
+Removed Pin From Net: NetName=TKEN3 Pin=R5-1
+Removed Pin From Net: NetName=TKEN2 Pin=U1-1
+Removed Pin From Net: NetName=TKEN3 Pin=U5-1
+Added Pin To Net: NetName=ZK3 Pin=Q13-3
+Added Pin To Net: NetName=ZK2 Pin=Q15-3
+Added Pin To Net: NetName=TKEN3 Pin=R1-1
+Added Pin To Net: NetName=TKEN2 Pin=R5-1
+Added Pin To Net: NetName=TKEN3 Pin=U1-1
+Added Pin To Net: NetName=TKEN2 Pin=U5-1
+Change Net Name : Old Net Name=TKH2 New Net Name=TKH3
+Change Net Name : Old Net Name=TKH3 New Net Name=TKH2
+Change Net Name : Old Net Name=TKL2 New Net Name=TKL3
+Change Net Name : Old Net Name=ZKEN2 New Net Name=ZKEN3
+Change Net Name : Old Net Name=ZKEN3 New Net Name=ZKEN2
+Added Pin To Net: NetName=TKL2 Pin=J11-2
+Added Net: Name=TKL2
